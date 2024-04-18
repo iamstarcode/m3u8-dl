@@ -5,7 +5,7 @@ npm-debug.log
 /debug/
 /dist/
 /esm
-/cjs
+#/cjs
 /docs
 /config
 /cache
